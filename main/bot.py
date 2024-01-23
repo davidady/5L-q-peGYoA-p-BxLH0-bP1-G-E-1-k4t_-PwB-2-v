@@ -6,6 +6,7 @@ from io import StringIO
 from discord.ext import commands
 from typing import List
 from keep_alive import keep_alive
+import os
 # connect to the database
 keep_alive()
 con = sqlite3.connect('accounts.db')
