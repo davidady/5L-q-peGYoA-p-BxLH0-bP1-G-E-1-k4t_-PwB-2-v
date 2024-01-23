@@ -3,4 +3,3 @@ Requests==2.31.0
 typing==3.7.4.3
 datetime==5.2
 flask
-threading
