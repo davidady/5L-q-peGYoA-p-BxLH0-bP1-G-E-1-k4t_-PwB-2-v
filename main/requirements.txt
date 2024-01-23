@@ -1,5 +1,4 @@
 discord
-json
 sqlite3
 requests
 typing
