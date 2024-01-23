@@ -1,5 +1,4 @@
-discord
-sqlite3
-requests
-typing
-keep_alive
+discord.py==2.3.2
+Requests==2.31.0
+typing==3.7.4.3
+datetime==5.2
