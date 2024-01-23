@@ -24,7 +24,7 @@
 
     "messages": {
         "noperms": "You sadly don't have perms to use our Discord Account Generator (DAG)",
-        "wrongchannel": "Wrong channel! Use <#1199331409953832960>",
+        "wrongchannel": "Wrong channel!",
 
         "cookie-altmessage-switch": false,
         "altsent": "Thank you for using DaGroundGen"
