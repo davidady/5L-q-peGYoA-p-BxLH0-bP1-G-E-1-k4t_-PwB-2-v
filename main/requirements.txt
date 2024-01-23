@@ -1,0 +1,6 @@
+discord.py==1.7.3
+json
+sqlite3
+requests
+typing
+keep_alive
