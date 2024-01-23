@@ -1,2 +1,3 @@
 cd main
-python bot.py
+pip3 install -r requirements.txt
+python3 bot.py
